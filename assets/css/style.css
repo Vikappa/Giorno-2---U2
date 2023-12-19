@@ -530,14 +530,16 @@ footer a {
   z-index: 2;
 }
 
-
+#pagina_social {
+  bottom: 200px;
+}
 
 #calendario {
-  bottom: 50px;
+  bottom: 100px;
 }
 
 #tornaSu {
-  bottom: -50px;
+  bottom: 0px;
 }
 
 @media screen and (min-width: 700px) {
