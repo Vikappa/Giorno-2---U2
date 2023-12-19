@@ -515,3 +515,27 @@ footer a {
     display: none;
   }
 }
+
+.fixedIcon {
+
+  position: fixed;
+  text-align: center;
+  right: 8px;
+  font-size: 2rem;
+  border: 3px solid white;
+  border-radius: 10px;
+  padding: 2% 0 2% 4%;
+  background-color: rgba(255, 255, 255, 0.527);
+}
+
+#pagina_social {
+  bottom: 150px;
+}
+
+#calendario {
+  bottom: 50px;
+}
+
+#tornaSu {
+  bottom: -50px;
+}
